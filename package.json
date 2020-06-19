@@ -2,7 +2,7 @@
   "name": "ecoleta",
   "author": "Deize Rizzatti",
   "scripts": {
-    "start": "nodemon src/server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
